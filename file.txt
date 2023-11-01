@@ -1,0 +1,7 @@
+============================================================================================================================
+Github Administration - part1
+============================================================================================================
+  - Create & delete repo from github
+  - Create & delete branch and tag
+  - Create & delete  file and commit
+  - How to check commits and describe commits
