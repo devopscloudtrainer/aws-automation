@@ -9,3 +9,13 @@ Branches and Branching Strategy
 Merge and Rebase
 Cherrypick
 
+
+Stash is used for storing the changes in temporary location.
+
+eg: Let suppose, we are working on develop branch, edited few files and added to staging area.
+Now suddenly, we got new request for some urgent fix, now we have to create new hotfix branch and switch to hotfix branch.
+But git recommends,  switching an branch is not possible/not recommended when files are in working directory or staging area.
+Either you rollback the changes or commit the changes.
+
+Stash comes into picture where stash allows us to store the incomplete work in temporary location and now we can easily switch branches.
+
