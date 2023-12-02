@@ -1,1 +1,5 @@
-
+Scenario: Add changes to index.html - 5 lines
+   1. Update the local develop branch from remote develop branch
+   2. Create hotfix branch from local develop branch
+   3. make the changes index.html and commmit
+   4. Push the hotfix branch to remote repository
